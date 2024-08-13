@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "The Great Adventure",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Understanding JavaScript",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "title": "Mystery of the Lost City",
+    "price": 15.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "title": "Cooking with Herbs",
+    "price": 24.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 5,
+    "name": "Sarah Wilson",
+    "title": "The Art of Photography",
+    "price": 34.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 6,
+    "name": "Robert Johnson",
+    "title": "Introduction to Machine Learning",
+    "price": 39.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 7,
+    "name": "Linda Martinez",
+    "title": "Gardening 101",
+    "price": 18.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 8,
+    "name": "James White",
+    "title": "The History of Ancient Rome",
+    "price": 22.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 9,
+    "name": "Patricia Garcia",
+    "title": "Fundamentals of Physics",
+    "price": 27.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 10,
+    "name": "David Anderson",
+    "title": "The Secrets of Quantum Computing",
+    "price": 44.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 11,
+    "name": "Mary Thomas",
+    "title": "Yoga for Beginners",
+    "price": 16.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 12,
+    "name": "Daniel Taylor",
+    "title": "The Ultimate Guide to Travel",
+    "price": 25.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 13,
+    "name": "Jennifer Lee",
+    "title": "Digital Marketing Essentials",
+    "price": 31.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 14,
+    "name": "William Harris",
+    "title": "Advanced Web Development",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 15,
+    "name": "Elizabeth Clark",
+    "title": "Art of French Cooking",
+    "price": 21.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 16,
+    "name": "Christopher Lewis",
+    "title": "Modern Architecture",
+    "price": 32.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 17,
+    "name": "Sophia Robinson",
+    "title": "Creative Writing Mastery",
+    "price": 28.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 18,
+    "name": "Matthew Walker",
+    "title": "The Basics of Astronomy",
+    "price": 20.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  },
+  {
+    "id": 19,
+    "name": "Olivia Young",
+    "title": "Personal Finance for Beginners",
+    "price": 23.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": false
+  },
+  {
+    "id": 20,
+    "name": "James Hall",
+    "title": "Introduction to Graphic Design",
+    "price": 26.99,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=626&ext=jpg&ga=GA1.1.1903497593.1719211599&semt=ais_hybrid",
+    "category": true
+  }
+]
